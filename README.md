@@ -37,5 +37,7 @@ Played various roles in technical teams such as Solution Architect, Senior softw
 When I’m not crafting lines of code that bring innovative ideas to life, you’ll often find me exploring outskirts of New South Wales or Victoria on my bike, or tinkering with my IoT projects. 🚴🤖
 
 <br />
-Thats all folks!
-You are welcome to read my Blog 📃: [Bitsfactory](www.google.com)
+
+### 📃 Thats all folks!
+
+You are welcome to read my Blog at: ![Static Badge](https://img.shields.io/badge/-Bitsfactory-444444?logo=readthedocs&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F3345697%2Flilanga&link=https%3A%2F%2Fbitsfactory.lilanga.me)
