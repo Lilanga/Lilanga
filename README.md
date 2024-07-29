@@ -1,205 +1,41 @@
-![](assets/Bottom_up.svg)
+![](./assets/header_.png) 
 
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
-</p>
+<span>
+<img src="./assets/about_me.gif" alt="drawing" width="50"/> 
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<h2 style='display:inline; padding-left: 15px;'>Hey there👋, I'm Lilanga from Melborne with 🫶</h2>
+</span>
+<hr>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lilanga)
+![Static Badge](https://img.shields.io/badge/-amazonwebservices?style=social&logo=linkedin&label=linkedin&link=www.linkedin.com%2Fin%2FLilanga)
+![Static Badge](https://img.shields.io/badge/bitsfactory-blog-blue?link=https%3A%2F%2Fbitsfactory.lilanga.me)
+![Static Badge](https://img.shields.io/badge/lilanga-portfolio-green?link=https%3A%2F%2Fwww.lilanga.me)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lilanga2006@gmail.com)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/lilanga_g)
+![Static Badge](https://img.shields.io/badge/-StackOVerflow-444444?logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F3345697%2Flilanga)
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+## 👨‍💻 My Tech stacks
 
+| **Areas**| **Tech stacks**|
+|--|--|
+| **Languages**| ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![Static Badge](https://img.shields.io/badge/-NodeJS-004400?logo=nodedotjs) ![Static Badge](https://img.shields.io/badge/-TypeScript-444444?logo=typescript) ![Static Badge](https://img.shields.io/badge/-JavaScript-444444?logo=javascript) ![Static Badge](https://img.shields.io/badge/-Golang-444444?logo=go) ![Static Badge](https://img.shields.io/badge/-Rust-444444?logo=rust) ![Static Badge](https://img.shields.io/badge/-DotNet-444444?logo=dotnet) ![Static Badge](https://img.shields.io/badge/-Spring-444444?logo=spring) ![Static Badge](https://img.shields.io/badge/-Phoenix_Framework-444444?logo=phoenixframework)|
+| **Cloud related stacks**| ![Static Badge](https://img.shields.io/badge/-AWS_Cloud-444444?logo=amazonwebservices&logoColor=FFA833) ![Static Badge](https://img.shields.io/badge/-Amazon_ECS-444444?logo=amazonecs) ![Static Badge](https://img.shields.io/badge/-Amazon_EKS-444444?logo=amazoneks) ![Static Badge](https://img.shields.io/badge/-Azure_Cloud-444444?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMTk4LjI4NyI%2BCiAgPHBhdGggZmlsbD0iIzAwODlkNiIgZmlsbC1ydWxlPSJub256ZXJvIiBkPSJNMTE4LjQzMiAxODcuNjk4YzMyLjg5LTUuODEgNjAuMDU1LTEwLjYxOCA2MC4zNjctMTAuNjg0bC41NjgtLjEyLTMxLjA1Mi0zNi45MzVjLTE3LjA3OC0yMC4zMTQtMzEuMDUxLTM3LjAxNC0zMS4wNTEtMzcuMTEgMC0uMTgyIDMyLjA2My04OC40NzcgMzIuMjQzLTg4Ljc5Mi4wNi0uMTA0IDIxLjg4IDM3LjU2NyA1Mi44OTMgOTEuMzIgMjkuMDM1IDUwLjMyMyA1Mi45NzMgOTEuODE1IDUzLjE5NSA5Mi4yMDNsLjQwNS43MDctOTguNjg0LS4wMTItOTguNjg0LS4wMTMgNTkuOC0xMC41NjR6TTAgMTc2LjQzNWMwLS4wNTIgMTQuNjMxLTI1LjQ1MSAzMi41MTQtNTYuNDQybDMyLjUxNC01Ni4zNDcgMzcuODkxLTMxLjc5OUMxMjMuNzYgMTQuMzU4IDE0MC44NjcuMDI3IDE0MC45MzUuMDAxYy4wNjktLjAyNi0uMjA1LjY2NC0uNjA5IDEuNTM0cy0xOC45MTkgNDAuNTgyLTQxLjE0NSA4OC4yNWwtNDAuNDEgODYuNjctMjkuMzg2LjAzN2MtMTYuMTYyLjAyLTI5LjM4NS0uMDA1LTI5LjM4NS0uMDU3eiI%2BPC9wYXRoPgo8L3N2Zz4%3D&logoColor=FFA833) ![Static Badge](https://img.shields.io/badge/-firebase-444444?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgOTUuMzg1IDEzMS4wNyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BCiA8ZGVmcz4KICA8bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIyNC4yOSIgeDI9IjE0MC42NyIgeTE9IjI0LjA5NyIgeTI9IjEwOC43NSIgZ3JhZGllbnRUcmFuc2Zvcm09InNjYWxlKC44NTE1OCAxLjE3NDMpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BCiAgIDxzdG9wIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iLjEiIG9mZnNldD0iMCI%2BPC9zdG9wPgogICA8c3RvcCBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9Ii4wOCIgb2Zmc2V0PSIuMTQiPjwvc3RvcD4KICAgPHN0b3Agc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIuMDIiIG9mZnNldD0iLjYxIj48L3N0b3A%2BCiAgIDxzdG9wIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMCIgb2Zmc2V0PSIxIj48L3N0b3A%2BCiAgPC9saW5lYXJHcmFkaWVudD4KICA8cGF0aCBpZD0iYiIgZD0ibTEwNi42OSAzNS4yNzRjLTAuMTg2LTEuMDk3Ny0wLjk2Ny0yLTIuMDI0NC0yLjMzOHMtMi4yMTQ4LTAuMDU3LTMuMDAwMiAwLjczbC0xNS40MTUgMTUuNS0xMi4xMi0yMy4xNDZjLTAuNTEzMy0wLjk3ODYtMS41MjUtMS41OTE0LTIuNjI3My0xLjU5MTRzLTIuMTE0IDAuNjEyOC0yLjYyNzMgMS41OTE0bC02LjYyNzcgMTIuNjU2LTE2LjYyNS0zMS4xMDRjLTAuNjAzLTEuMTI5Ny0xLjg1ODgtMS43NDYtMy4xMTgtMS41Mjk3cy0yLjIzOTQgMS4yMTYtMi40MzM1IDIuNDgyN2wtMTYuMDY4IDEwMy4xOCA0Mi45NzMgMjQuMTY1YzIuNjk4NSAxLjUxMTMgNS45ODUgMS41MTEzIDguNjgzNiAwbDQzLjM0NC0yNC4xNjUtMTIuMzEzLTc2LjQyN3oiPjwvcGF0aD4KIDwvZGVmcz4KIDxwYXRoIGQ9Im0wLjA1MiAxMDUuNzUgMTYuMTMyLTEwMy4yM2MwLjE5NzItMS4yNjYgMS4xODE4LTIuMjY0IDIuNDQ1LTIuNDc4NnMyLjUyMiAwLjQwMjggMy4xMjYgMS41MzI3bDE2LjY4NCAzMS4xMTcgNi42NS0xMi42NjJjMC41MTUtMC45NzkgMS41MzAzLTEuNTkyIDIuNjM2Ni0xLjU5MnMyLjEyMTUgMC42MTMgMi42MzY2IDEuNTkybDQ1LjAyMyA4NS43MThoLTk1LjMzM3oiIGZpbGw9IiNmZmEwMDAiPjwvcGF0aD4KIDxwYXRoIGQ9Im01NS43ODUgNjUuNTM4LTE3LjM1NC0zMi44Ni0zOC4zNzkgNzMuMDcyeiIgZmlsbD0iI2Y1N2MwMCI%2BPC9wYXRoPgogPHBhdGggZD0ibTk1LjM4NSAxMDUuNzUtMTIuMzU2LTc2LjQ2Yy0wLjE4NjctMS4wOTgtMC45NzAzLTItMi4wMzE1LTIuMzRzLTIuMjIyNi0wLjA1Ny0zLjAxMDcgMC43MzAybC03Ny45MzUgNzguMDY5IDQzLjEyMyAyNC4xODNjMi43MDggMS41MTIgNi4wMDYgMS41MTIgOC43MTQgMGw0My40OTYtMjQuMTgzeiIgZmlsbD0iI2ZmY2EyOCI%2BPC9wYXRoPgogPHBhdGggZD0ibTgzLjAyOSAyOS4yODljLTAuMTg2Ny0xLjA5OC0wLjk3MDMtMi0yLjAzMTUtMi4zNHMtMi4yMjI2LTAuMDU3LTMuMDEwNyAwLjczMDJsLTE1LjQ2OCAxNS41MDgtMTIuMTY0LTIzLjE1NmMtMC41MTUtMC45NzktMS41MzAzLTEuNTkyLTIuNjM2Ni0xLjU5MnMtMi4xMjE1IDAuNjEzLTIuNjM2NiAxLjU5MmwtNi42NSAxMi42NjItMTYuNjg0LTMxLjExN2MtMC42MDUtMS4xMzAyLTEuODY1My0xLjc0NjYtMy4xMy0xLjUzMDRzLTIuMjQ2IDEuMjE2Ny0yLjQ0MSAyLjQ4MzdsLTE2LjEyNSAxMDMuMjJoLTAuMDUybDAuMDUyIDAuMDU5NiAwLjQyNDUgMC4yMDg1IDc3LjQ4OC03Ny41NzhjMC43ODc3LTAuNzkxNSAxLjk1Mi0xLjA3NiAzLjAxNi0wLjczN3MxLjg0OSAxLjI0NDUgMi4wMzM4IDIuMzQ1N2wxMi4yNTIgNzUuNzc1IDAuMTE5Mi0wLjA3NDUtMTIuMzU2LTc2LjQ2em0tODIuODM2IDc2LjMxOSAxNS45OTEtMTAyLjM1YzAuMTk0OC0xLjI2NyAxLjE3ODQtMi4yNjc1IDIuNDQyLTIuNDgzN3MyLjUyNCAwLjQgMy4xMyAxLjUzMDRsMTYuNjgyIDMxLjExNyA2LjY1LTEyLjY2MmMwLjUxNS0wLjk3OSAxLjUzMDMtMS41OTIgMi42MzY2LTEuNTkyczIuMTIxNSAwLjYxMyAyLjYzNjYgMS41OTJsMTEuOTE3IDIyLjY2NC02Mi4wODYgNjIuMTgzeiIgZmlsbD0iI2ZmZiIgZmlsbC1vcGFjaXR5PSIuMiI%2BPC9wYXRoPgogPHBhdGggZD0ibTUxLjg5IDEyOS4yYy0yLjcwOCAxLjUxMi02LjAwNiAxLjUxMi04LjcxNCAwbC00My4wMTktMjQuMTE2LTAuMTA0MyAwLjY2MyA0My4xMjMgMjQuMTc2YzIuNzA4IDEuNTEyIDYuMDA2IDEuNTEyIDguNzE0IDBsNDMuNDk2LTI0LjE3Ni0wLjExMTctMC42ODUyLTQzLjM4NCAyNC4xMzl6IiBmaWxsPSIjYTUyNzE0IiBvcGFjaXR5PSIuMiI%2BPC9wYXRoPgogPHVzZSB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjMuNzgxIC01Ljk2OTgpIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2EpIiB4bGluazpocmVmPSIjYiI%2BPC91c2U%2BCjwvc3ZnPg%3D%3D&logoColor=FFA833) ![Static Badge](https://img.shields.io/badge/-AWS_Lambda-444444?logo=awslambda&logoColor=FFA833) ![Static Badge](https://img.shields.io/badge/-Vercel-444444?logo=vercel) ![Static Badge](https://img.shields.io/badge/-Netlify-444444?logo=netlify) ![Static Badge](https://img.shields.io/badge/-GCP-444444?logo=googlecloud) |
+| **Working with**| ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab) [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) ![Static Badge](https://img.shields.io/badge/-GraphQL-444444?logo=graphql) ![Static Badge](https://img.shields.io/badge/-K8S-444444?logo=kubernetes) ![Static Badge](https://img.shields.io/badge/-ReactJS-444444?logo=react) ![Static Badge](https://img.shields.io/badge/-Redux-444444?logo=redux) ![Static Badge](https://img.shields.io/badge/-Terraform-444444?logo=terraform) ![Static Badge](https://img.shields.io/badge/-Logstash-444444?logo=logstash) ![Static Badge](https://img.shields.io/badge/-Kibana-444444?logo=kibana) ![Static Badge](https://img.shields.io/badge/-Elastic-444444?logo=elastic) ![Static Badge](https://img.shields.io/badge/-Opentelemetry-444444?logo=opentelemetry) ![Static Badge](https://img.shields.io/badge/-Jaeger-444444?logo=jaeger)|
+| **CI / CD**| ![Static Badge](https://img.shields.io/badge/-GO_CD-004400?logo=gocd) ![Static Badge](https://img.shields.io/badge/-Github_Actions-444444?logo=githubactions) ![Static Badge](https://img.shields.io/badge/-Bamboo_CI-004400?logo=bamboo) ![Static Badge](https://img.shields.io/badge/-Argo_CD-444444?logo=argo) ![Static Badge](https://img.shields.io/badge/-Jenkins-444444?logo=jenkins)|
+| **Databases**| ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite) [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) ![Static Badge](https://img.shields.io/badge/-Timescale-444444?logo=timescale) ![Static Badge](https://img.shields.io/badge/-InfluxDB-444444?logo=influxdb) |
+| **Tools** | ![Static Badge](https://img.shields.io/badge/-Wezterm-444444?logo=wezterm) ![Static Badge](https://img.shields.io/badge/-Neovim-444444?logo=neovim) ![Static Badge](https://img.shields.io/badge/-Starship-444444?logo=starship) ![Static Badge](https://img.shields.io/badge/-NodeRED-444444?logo=nodered) ![Static Badge](https://img.shields.io/badge/-VS_Code-444444?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjU1LjAwNCAyNTMuNjg5Ij4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYyIgeDE9IjEyNy4xNzMiIHgyPSIxMjcuMTczIiB5MT0iMCIgeTI9IjI1NC4zNDYiIGdyYWRpZW50VHJhbnNmb3JtPSJzY2FsZSgxLjAwMjU5IC45OTc0MikiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0ZGRiI%2BPC9zdG9wPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGRkYiIHN0b3Atb3BhY2l0eT0iMCI%2BPC9zdG9wPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXRoIGlkPSJhIiBkPSJNMTgwLjgyOCAyNTIuNjA1YTE1Ljg3MiAxNS44NzIgMCAwIDAgMTIuNjUtLjQ4Nmw1Mi41MDEtMjUuMjYyYTE1Ljk0IDE1Ljk0IDAgMCAwIDkuMDI1LTE0LjM2NFY0MS4xOTdhMTUuOTM5IDE1LjkzOSAwIDAgMC05LjAyNS0xNC4zNjNsLTUyLjUtMjUuMjYzYTE1Ljg3NyAxNS44NzcgMCAwIDAtMTguMTE1IDMuMDg0TDc0Ljg1NyA5Ni4zNWwtNDMuNzgtMzMuMjMyYTEwLjYxNCAxMC42MTQgMCAwIDAtMTMuNTYuNjAzTDMuNDc2IDc2LjQ5NGMtNC42MyA0LjIxMS00LjYzNSAxMS40OTUtLjAxMiAxNS43MTNsMzcuOTY3IDM0LjYzOC0zNy45NjcgMzQuNjM3Yy00LjYyMyA0LjIxOS00LjYxOCAxMS41MDIuMDEyIDE1LjcxNGwxNC4wNDEgMTIuNzcyYTEwLjYxNCAxMC42MTQgMCAwIDAgMTMuNTYuNjA0bDQzLjc4LTMzLjIzMyAxMDAuNTA3IDkxLjY5NWExNS44NTMgMTUuODUzIDAgMCAwIDUuNDY0IDMuNTcxem0xMC40NjQtMTgzLjY0OS03Ni4yNjIgNTcuODg5IDc2LjI2MiA1Ny44ODh6Ij48L3BhdGg%2BCiAgPC9kZWZzPgogIDxtYXNrIGlkPSJiIiBmaWxsPSIjZmZmIj4KICAgIDx1c2Ugd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeGxpbms6aHJlZj0iI2EiPjwvdXNlPgogIDwvbWFzaz4KICA8cGF0aCBmaWxsPSIjMDA2NWE5IiBkPSJNMjQ2LjEzNSAyNi44NzMgMTkzLjU5MyAxLjU3NWExNS44ODUgMTUuODg1IDAgMCAwLTE4LjEyMyAzLjA4TDMuNDY2IDE2MS40ODJjLTQuNjI2IDQuMjE5LTQuNjIgMTEuNTAyLjAxMiAxNS43MTRsMTQuMDUgMTIuNzcyYTEwLjYyNSAxMC42MjUgMCAwIDAgMTMuNTY5LjYwNEwyMzguMjI5IDMzLjQzNmM2Ljk0OS01LjI3MSAxNi45My0uMzE1IDE2LjkzIDguNDA3di0uNjFhMTUuOTM4IDE1LjkzOCAwIDAgMC05LjAyNC0xNC4zNnoiIG1hc2s9InVybCgjYikiPjwvcGF0aD4KICA8cGF0aCBmaWxsPSIjMDA3YWNjIiBkPSJtMjQ2LjEzNSAyMjYuODE2LTUyLjU0MiAyNS4yOThhMTUuODg3IDE1Ljg4NyAwIDAgMS0xOC4xMjMtMy4wOEwzLjQ2NiA5Mi4yMDdjLTQuNjI2LTQuMjE4LTQuNjItMTEuNTAyLjAxMi0xNS43MTNsMTQuMDUtMTIuNzczYTEwLjYyNSAxMC42MjUgMCAwIDEgMTMuNTY5LS42MDNsMjA3LjEzMiAxNTcuMTM1YzYuOTQ5IDUuMjcxIDE2LjkzLjMxNSAxNi45My04LjQwOHYuNjExYTE1LjkzOSAxNS45MzkgMCAwIDEtOS4wMjQgMTQuMzZ6IiBtYXNrPSJ1cmwoI2IpIj48L3BhdGg%2BCiAgPHBhdGggZmlsbD0iIzFmOWNmMCIgZD0iTTE5My40MjggMjUyLjEzNWExNS44OTIgMTUuODkyIDAgMCAxLTE4LjEyNS0zLjA4NGM1Ljg4MSA1Ljg4IDE1LjkzOCAxLjcxNSAxNS45MzgtNi42MDNWMTEuMjczYzAtOC4zMTgtMTAuMDU3LTEyLjQ4My0xNS45MzgtNi42MDJhMTUuODkyIDE1Ljg5MiAwIDAgMSAxOC4xMjUtMy4wODRsNTIuNTMzIDI1LjI2M2ExNS45MzcgMTUuOTM3IDAgMCAxIDkuMDMgMTQuMzYzVjIxMi41MWMwIDYuMTI1LTMuNTEgMTEuNzA5LTkuMDMgMTQuMzYzeiIgbWFzaz0idXJsKCNiKSI%2BPC9wYXRoPgogIDxwYXRoIGZpbGw9InVybCgjYykiIGZpbGwtb3BhY2l0eT0iLjI1IiBkPSJNMTgwLjgyOCAyNTIuNjA1YTE1Ljg3NCAxNS44NzQgMCAwIDAgMTIuNjUtLjQ4Nmw1Mi41LTI1LjI2M2ExNS45MzggMTUuOTM4IDAgMCAwIDkuMDI2LTE0LjM2M1Y0MS4xOTdhMTUuOTM5IDE1LjkzOSAwIDAgMC05LjAyNS0xNC4zNjNMMTkzLjQ3NyAxLjU3YTE1Ljg3NyAxNS44NzcgMCAwIDAtMTguMTE0IDMuMDg0TDc0Ljg1NyA5Ni4zNWwtNDMuNzgtMzMuMjMyYTEwLjYxNCAxMC42MTQgMCAwIDAtMTMuNTYuNjAzTDMuNDc2IDc2LjQ5NGMtNC42MyA0LjIxMS00LjYzNSAxMS40OTUtLjAxMiAxNS43MTNsMzcuOTY3IDM0LjYzOC0zNy45NjcgMzQuNjM3Yy00LjYyMyA0LjIxOS00LjYxOCAxMS41MDIuMDEyIDE1LjcxNGwxNC4wNDEgMTIuNzcyYTEwLjYxNCAxMC42MTQgMCAwIDAgMTMuNTYuNjA0bDQzLjc4LTMzLjIzMyAxMDAuNTA2IDkxLjY5NWExNS44NTcgMTUuODU3IDAgMCAwIDUuNDY1IDMuNTcxem0xMC40NjQtMTgzLjY1LTc2LjI2MiA1Ny44OSA3Ni4yNjIgNTcuODg4eiIgbWFzaz0idXJsKCNiKSIgc3R5bGU9ImZpbGw6dXJsKCNjKSI%2BPC9wYXRoPgo8L3N2Zz4%3D)|
 
-<a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+<br />
 
+## 🤷‍♂️ **Some facts about me:**
 
-<!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+In profession, I am a experienced software engineer passionate about contributing to crafting the best software products, be hands-on in developing novel solutions with research and development.
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
+Played various roles in technical teams such as Solution Architect, Senior software / Cloud engineer, Tech team lead. Passionate for trying out new technologies. Keen to follow engineering best practices.
 
+When I’m not crafting lines of code that bring innovative ideas to life, you’ll often find me exploring outskirts of New South Wales or Victoria on my bike, or tinkering with my IoT projects. 🚴🤖
 
-<!--   my-skils -->
-
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
-
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
-
-
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-</p>
-
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-
-
-<!-- Belarus - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
-
-![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
-
-
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
-
-
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@BEPb.github.readme)
-</br>
-
-[MIT](LICENSE)
-
-
-</p>
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
-
-[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
-
-![](assets/Bottom_down.svg)
+<br />
+Thats all folks!
+You are welcome to read my Blog 📃: [Bitsfactory](www.google.com)
